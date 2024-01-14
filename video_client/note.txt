@@ -1,0 +1,21 @@
+0- Video gönderme(POC de var BE de var)
+1- Adaydan Beklentiler Emotions (https://m2.material.io/components/chips#input-chips)(POC de var BE gerek yok)
+2- Örnek soru yaz altına text input koy
+3- Baranla birlikte soru seti oluşturmak için GPT ile çalış (Soru üretme) (POC de yok)
+4- Side bar menü ön mülakat, canlı mülakat ve grup mülakat (ing)(POC de var BE yok)
+5- Side bar da divider koy altına Avatar ekle (POC da)
+6- Admin Template https://demos.creative-tim.com/muse-ant-design-dashboard/?_ga=2.266543434.53654176.1705257989-1990720037.1705257989#/billing
+
+
+BE
+Video gönderme(POC de var BE de var)
+
+GPT
+Baranla birlikte soru seti oluşturmak için GPT ile çalış (Soru üretme) (POC de yok)
+
+FE
+Örnek soru yaz altına text input koy (POC da var BE yok)
+Adaydan Beklentiler Emotions (https://m2.material.io/components/chips#input-chips)(POC de var BE gerek yok)
+Side bar menü ön mülakat, canlı mülakat ve grup mülakat (ing)(POC de var BE yok)
+Side bar da divider koy altına Avatar ekle (POC da var BE yok)
+Admin Template https://demos.creative-tim.com/muse-ant-design-dashboard/?_ga=2.266543434.53654176.1705257989-1990720037.1705257989#/billing
